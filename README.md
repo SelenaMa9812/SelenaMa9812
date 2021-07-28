@@ -14,7 +14,7 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 ### 量化策略
 
-国泰君安短周期191阿尔法因子选股策略复现： [Guotai-Junan-191-Alpha](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha)
+国泰君安短周期191 Alpha因子选股策略复现： [Guotai-Junan-191-Alpha](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha)
 
 -----------------------------------------------------------------------------------------------------
 
