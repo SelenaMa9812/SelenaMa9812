@@ -18,7 +18,7 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 -----------------------------------------------------------------------------------------------------
 
-👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application beginning in Harbin Institute of Technology in 2018. After graduation, I attend graduate school at Fudan University in 2020，because Fudan is the first university in China to establish a big data institute in 2016.
+👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application beginning in Harbin Institute of Technology in 2018. After graduation, I attended graduate school at Fudan University in 2020，because Fudan was the first university in China to establish the School of Data Science in 2016.
 
 Programming is difficult, but each time it brings me happiness when I finish my coding, which can never be compared with any entertainments or games!
 
