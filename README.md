@@ -1,6 +1,6 @@
-👋 Hi, I’m @SelenaMa9812，目前就读于复旦大学大数据学院。从本科哈尔滨工业大学的大数据专业试点开始，我坚定地选择了这个方向。复旦大学是国内最早(2016)建立大数据学院的高校，这也是我考研选择她的理由。
+👋 Hi, I’m Yidi Ma，目前就读于复旦大学大数据学院。从本科哈尔滨工业大学的大数据专业试点开始，我坚定地选择了这个方向。复旦大学是国内最早(2016)建立大数据学院的高校，这也是我考研选择她的理由。
 
-编程很难，但是，每当完成一篇代码，带给我的快乐，是任何娱乐游戏项目都无法比拟的！
+编程很难，但是，每完成一篇代码，带给我的快乐，是任何娱乐游戏项目都无法比拟的！
 
 我的第1-2份实习是在券商的金融工程组和量化与基金研究团队，可是第一个任务却是完成所有行业的基本面研究。。。我搜集到了券商所有行业的研究框架，可是却难以领会其中精髓。。。理科背景的我对金融的各大方向完全没有接触过。。。
 
@@ -15,3 +15,14 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 ### 量化策略
 
 国泰君安短周期多因子阿尔法选股策略复现： [Short-term_Multi-factor_Alpha](https://github.com/SelenaMa9812/Short-term_Multi-factor_Alpha)
+
+
+👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application in Harbin Institute of Technology. After graduation, I attend graduate school at Fudan University，because Fudan is the first university in China to establish a big data institute in 2016.
+
+Programming is difficult, but each time it brings me happiness when I finish my coding, which can never be compared with any entertainments or games!
+
+My first two internships were in the financial engineering team and the quantitative and fund research team of the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it is difficult for me to grasp the essence. . . With the background of Science, I have no experience in each major direction of finance. . .
+
+So, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
+
+No pains, no gains. There are always many interviewers who kindly give me advice, predecessors who tolerate my "mental retardation" problem in traditional financial practice, classmates and teachers who accompany me when encountering difficulties to help me get on the right track step by step! ! ! Road is under foot, and my direction is firm, and skills are steadily accumulated. I hope I will remain firm after experiencing all the difficulties! ! !
