@@ -1,3 +1,4 @@
+## 自我介绍
 👋 Hi, I’m Yidi Ma，目前就读于复旦大学大数据学院。从本科哈尔滨工业大学的大数据专业试点开始，我坚定地选择了这个方向。复旦大学是国内最早(2016)建立大数据学院的高校，这也是我考研选择她的理由。
 
 编程很难，但是，每完成一篇代码，带给我的快乐，是任何娱乐游戏项目都无法比拟的！
@@ -16,8 +17,8 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 国泰君安短周期多因子阿尔法选股策略复现： [Short-term_Multi-factor_Alpha](https://github.com/SelenaMa9812/Short-term_Multi-factor_Alpha)
 
-
-👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application in Harbin Institute of Technology. After graduation, I attend graduate school at Fudan University，because Fudan is the first university in China to establish a big data institute in 2016.
+## Introduction
+👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application beginning in Harbin Institute of Technology in 2018. After graduation, I attend graduate school at Fudan University in 2020，because Fudan is the first university in China to establish a big data institute in 2016.
 
 Programming is difficult, but each time it brings me happiness when I finish my coding, which can never be compared with any entertainments or games!
 
