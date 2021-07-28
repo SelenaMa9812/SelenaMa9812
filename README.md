@@ -22,9 +22,9 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 Programming is difficult, but each time when I finish my coding, it brings me happiness, which can never be compared with any entertainments or games!
 
-My first two internships were in the financial engineering team and the quantitative and fund research team in the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it is difficult for me to grasp the essence. . . With the background of Science, I have no experience in each major direction of finance. . .
+My first two internships were in the financial engineering team and the quantitative and fund research team in the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it was difficult for me to grasp the essence. . . With the background of Science, I had no experience in each major direction of finance at that time. . .
 
-So, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of funds, stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
+Therefore, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of funds, stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
 
 No pains, no gains. There are always many interviewers who kindly give me advice, predecessors who tolerate my "mental retardation" problem in traditional financial practice, classmates and teachers who accompany me when encountering difficulties to help me get on the right track step by step! ! ! Road is under foot, and my direction is firm, and skills are steadily accumulated. I hope I will remain firm after experiencing all the difficulties! ! !
 
