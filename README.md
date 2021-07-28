@@ -1,6 +1,6 @@
 👋 Hi, I’m Yidi Ma，目前就读于复旦大学大数据学院。从本科哈尔滨工业大学的大数据专业试点(2018)开始，我坚定地选择了这个方向。复旦大学是国内最早(2016)建立大数据学院的高校，这也是我考研选择她的理由。
 
-编程很难，但是，每完成一篇代码，带给我的快乐，是任何娱乐游戏项目都无法比拟的！
+编程debug的过程很难，但是，每完成一篇代码，每一次让自己的思想由机器高效的运行，带给我的快乐，是任何娱乐游戏项目都无法比拟的！
 
 我的第1-2份实习是在券商的金融工程组和量化与基金研究团队，可是第一个任务却是完成所有行业的基本面研究。。。我搜集到了券商所有行业的研究框架，可是却难以领会其中精髓。。。理科背景的我对金融的各大方向完全没有接触过。。。
 
@@ -20,7 +20,7 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application beginning in Harbin Institute of Technology in 2018. After graduation, I attended graduate school at Fudan University in 2020，because Fudan was the first university in China to establish the School of Data Science in 2016.
 
-Programming is difficult, but each time when I finish my coding, it brings me happiness, which can never be compared with any entertainments or games!
+Programming debug is difficult, but each time when I finish my coding and make my thoughts run efficiently by the computer brings me happiness, which can never be compared with any entertainments or games!
 
 My first two internships were in the financial engineering team and the quantitative and fund research team in the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it was difficult for me to grasp the essence. . . With the background of Science, I had no experience in each major direction of finance at that time. . .
 
