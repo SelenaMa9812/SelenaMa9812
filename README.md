@@ -27,3 +27,11 @@ My first two internships were in the financial engineering team and the quantita
 So, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of funds, stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
 
 No pains, no gains. There are always many interviewers who kindly give me advice, predecessors who tolerate my "mental retardation" problem in traditional financial practice, classmates and teachers who accompany me when encountering difficulties to help me get on the right track step by step! ! ! Road is under foot, and my direction is firm, and skills are steadily accumulated. I hope I will remain firm after experiencing all the difficulties! ! !
+
+### Quantitative Development
+
+Asyncio Websocket Receiver for Bybit Exchange： [Python-quantitative-development](https://github.com/SelenaMa9812/Python-quantitative-development)
+
+### Quantitative Strategies
+
+Guotai Junan Short-term Multi-factor Alpha Stock Selection Strategy： [Short-term_Multi-factor_Alpha](https://github.com/SelenaMa9812/Short-term_Multi-factor_Alpha)
