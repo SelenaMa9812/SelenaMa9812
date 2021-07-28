@@ -22,7 +22,7 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 Programming is difficult, but each time when I finish my coding, it brings me happiness, which can never be compared with any entertainments or games!
 
-My first two internships were in the financial engineering team and the quantitative and fund research team of the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it is difficult for me to grasp the essence. . . With the background of Science, I have no experience in each major direction of finance. . .
+My first two internships were in the financial engineering team and the quantitative and fund research team in the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it is difficult for me to grasp the essence. . . With the background of Science, I have no experience in each major direction of finance. . .
 
 So, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of funds, stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
 
