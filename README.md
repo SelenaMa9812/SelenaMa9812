@@ -5,7 +5,7 @@
 
 我的第1-2份实习是在券商的金融工程组和量化与基金研究团队，可是第一个任务却是完成所有行业的基本面研究。。。我搜集到了券商所有行业的研究框架，可是却难以领会其中精髓。。。理科背景的我对金融的各大方向完全没有接触过。。。
 
-于是，我开始了大半年的股票方向的行研实习、债券方向的评级公司实习，毕业论文选择了期货跨市套利方向。🌱集齐股票、债券、期货方向的研究经历后，重新回归正轨——我的专业对口方向：量化！！！
+于是，我开始了大半年的股票方向的行研实习、债券方向的评级公司实习，毕业论文选择了期货跨市套利方向。🌱集齐基金、股票、债券、期货方向的研究经历后，重新回归正轨——我的专业对口方向：量化！！！
 
 一分耕耘，一分收获。一路上不乏善意对我施以指点的面试官、传统金融实习中包容我的“智障”问题的前辈、遭遇坎坷陪伴指导我的同学和老师，帮助我一步步走入正轨！！！路在脚下，坚定方向，踏踏实实地积攒实力，希望大浪淘沙之后的我依然坚定！！！
 
@@ -24,6 +24,6 @@ Programming is difficult, but each time it brings me happiness when I finish my 
 
 My first two internships were in the financial engineering team and the quantitative and fund research team of the securities firm, but my first task was to complete the fundamental research of all industries. . . I have collected the research framework of all equity industries, but it is difficult for me to grasp the essence. . . With the background of Science, I have no experience in each major direction of finance. . .
 
-So, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
+So, I started my internship in equity research and bonds rating company for more than half a year, and I chose futures cross-market arbitrage as my graduation thesis . 🌱After experiencing the research experience of funds, stocks, bonds and futures, I return to the right track again——my professional counterpart: quantitative research! ! !
 
 No pains, no gains. There are always many interviewers who kindly give me advice, predecessors who tolerate my "mental retardation" problem in traditional financial practice, classmates and teachers who accompany me when encountering difficulties to help me get on the right track step by step! ! ! Road is under foot, and my direction is firm, and skills are steadily accumulated. I hope I will remain firm after experiencing all the difficulties! ! !
