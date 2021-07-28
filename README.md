@@ -14,7 +14,7 @@ Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development]
 
 ### 量化策略
 
-国泰君安短周期多因子阿尔法选股策略复现： [Short-term_Multi-factor_Alpha](https://github.com/SelenaMa9812/Short-term_Multi-factor_Alpha)
+国泰君安短周期191阿尔法因子选股策略复现： [Guotai-Junan-191-Alpha](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Asyncio Websocket Receiver for Bybit Exchange： [Python-quantitative-developmen
 
 ### Quantitative Strategies
 
-Guotai Junan Short-term Multi-factor Alpha Stock Selection Strategy： [Short-term_Multi-factor_Alpha](https://github.com/SelenaMa9812/Short-term_Multi-factor_Alpha)
+Guotai Junan 191 Alpha Factors Stock Selection Strategy： [Guotai-Junan-191-Alpha](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha)
