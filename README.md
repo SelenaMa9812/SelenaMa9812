@@ -18,6 +18,8 @@ Cryptofeed 行情中心框架：[Quotation-system-development](https://github.co
 
 国泰君安短周期191 Alpha因子选股策略复现： [Guotai-Junan-191-Alpha](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha)
 
+### [读书笔记](https://github.com/SelenaMa9812/My_Reading_Notes)
+
 -----------------------------------------------------------------------------------------------------
 
 👋 Hi, I’m Yidi Ma，currently studying at the School of Data Science in Fudan University. I firmly chose this direction from the pilot major named Big Data Management and Application beginning in Harbin Institute of Technology in 2018. After graduation, I attended graduate school at Fudan University in 2020，because Fudan was the first university in China to establish the School of Data Science in 2016.
@@ -39,3 +41,6 @@ Cryptofeed Market Center Framework：[Quotation-system-development](https://gith
 ### Quantitative Strategies
 
 Guotai Junan 191 Alpha Factors Stock Selection Strategy： [Guotai-Junan-191-Alpha](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha)
+
+
+### [Reading Notes](https://github.com/SelenaMa9812/My_Reading_Notes)
