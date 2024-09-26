@@ -1,4 +1,4 @@
-##量化金融
+## 量化金融
 ### 量化开发
 
 Bybit交易所的Asyncio Websocket Receiver： [Python-quantitative-development](https://github.com/SelenaMa9812/Python-quantitative-development)
@@ -18,7 +18,7 @@ Cryptofeed 行情中心框架：[Quotation-system-development](https://github.co
 
 -----------------------------------------------------------------------------------------------------
 
-##FinTech
+## FinTech
 ### Quantitative Development
 
 Asyncio Websocket Receiver for Bybit Exchange： [Python-quantitative-development](https://github.com/SelenaMa9812/Python-quantitative-development)
